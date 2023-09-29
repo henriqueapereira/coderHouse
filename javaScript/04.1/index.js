@@ -67,8 +67,10 @@
 
 // var resultadoCalculadora = calculadora(30,10,"-")
 // alert(resultadoCalculadora)
-// //ou
+//ou
 // alert(calculadora(30,10,"+"))
+//ou
+//console.log(calculadora(30,10,"+")
 
 //Para praticar
 /* crie uma função
